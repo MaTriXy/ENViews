@@ -1,5 +1,6 @@
 #ENViews
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ENViews-green.svg?style=true)](https://android-arsenal.com/details/1/4749)
 [![](https://jitpack.io/v/codeestX/ENViews.svg)](https://jitpack.io/#codeestX/ENViews)
 
 ENViews, A cool dynamic view library.All designed by [Nick Buturishvili](https://dribbble.com/nick_buturishvili
@@ -38,7 +39,7 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.codeestX:ENViews:v1.0.1'
+	        compile 'com.github.codeestX:ENViews:v1.0.2'
 	}
 	
 Step 3. See DemoProject for details.

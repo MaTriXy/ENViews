@@ -1,4 +1,4 @@
-#ENViews
+# ENViews
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ENViews-green.svg?style=true)](https://android-arsenal.com/details/1/4749)
 [![](https://jitpack.io/v/codeestX/ENViews.svg)](https://jitpack.io/#codeestX/ENViews)
@@ -8,24 +8,19 @@ ENViews, A cool dynamic view library.All designed by [Nick Buturishvili](https:/
 ENViews, 一个华丽丽的动效控件库，所有控件原型取自[Nick Buturishvili](https://dribbble.com/nick_buturishvili
 )的设计作品
 
-本项目为个人练习，发现问题或有建议欢迎[issue](https://github.com/codeestX/ENViews/issues)，email(codeest.dev@gmail.com),PR.  
-如果你喜欢这些效果也欢迎戳个star支持一下.  
-使用详情可以参考demo，如果需要引入到项目比起依赖库更推荐直接拷贝对应view的源码，方便根据需求随时自定义.  
-源码中在关键的绘制点做了注释，方便阅读参考.
+# Preview
 
-
-#Preview
 | Original design | Android demo | Class |
 | :--: | :--: | :--: |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_download.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/download.gif) |ENDownloadView|
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_volume.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/volume.gif)|ENVolumeView|
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_loading.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/loading.gif)  | ENLoadingView |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_play.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/play.gif) | ENPlayView |
-| ![](http://odck16ake.bkt.clouddn.com/Github/o_search.gif)| ![](http://odck16ake.bkt.clouddn.com/Github/search.gif) |ENSearchView
-|![](http://odck16ake.bkt.clouddn.com/Github/o_scroll.gif) | ![](http://odck16ake.bkt.clouddn.com/Github/scroll.gif)  |ENScrollView
-|![](http://odck16ake.bkt.clouddn.com/Github/o_refresh.gif)  | ![](http://odck16ake.bkt.clouddn.com/Github/refresh.gif)  |ENRefreshView|
+| ![](https://github.com/codeestX/ENViews/raw/master/preview/o_download.gif) | ![](https://github.com/codeestX/ENViews/raw/master/preview/download.gif) |ENDownloadView|
+| ![](https://github.com/codeestX/ENViews/raw/master/preview/o_volume.gif) | ![](https://github.com/codeestX/ENViews/raw/master/preview/volume.gif)|ENVolumeView|
+| ![](https://github.com/codeestX/ENViews/raw/master/preview/o_loading.gif) | ![](https://github.com/codeestX/ENViews/raw/master/preview/loading.gif)  | ENLoadingView |
+| ![](https://github.com/codeestX/ENViews/raw/master/preview/o_play.gif)| ![](https://github.com/codeestX/ENViews/raw/master/preview/play.gif) | ENPlayView |
+| ![](https://github.com/codeestX/ENViews/raw/master/preview/o_search.gif)| ![](https://github.com/codeestX/ENViews/raw/master/preview/search.gif) |ENSearchView
+|![](https://github.com/codeestX/ENViews/raw/master/preview/o_scroll.gif) | ![](https://github.com/codeestX/ENViews/raw/master/preview/scroll.gif)  |ENScrollView
+|![](https://github.com/codeestX/ENViews/raw/master/preview/o_refresh.gif)  | ![](https://github.com/codeestX/ENViews/raw/master/preview/refresh.gif)  |ENRefreshView|
 
-#Usage
+# Usage
 
 Step 1. Add the JitPack repository to your build file
 
@@ -39,18 +34,18 @@ Step 1. Add the JitPack repository to your build file
 Step 2. Add the dependency
 
 	dependencies {
-	        compile 'com.github.codeestX:ENViews:v1.0.2'
+	        compile 'com.github.codeestX:ENViews:v1.0.3'
 	}
 	
 Step 3. See DemoProject for details.
 
 
-#Thanks
+# Thanks
 * [Nick Buturishvili](https://dribbble.com/nick_buturishvili)
 
 * [GcsSloop](http://www.gcssloop.com/customview/CustomViewIndex)
 
-#License
+# License
 
       Copyright (c) 2016 codeestX
 
